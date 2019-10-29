@@ -8,6 +8,7 @@ Test Teardown  MySql.Disconnect
 # pybot -d results/my-sql tests/MySql_Tests.robot
 # pybot -d results/my-sql -i MySqlDB tests
 # pybot -d results tests
+# version 1.0
 
 *** Variables ***
 
